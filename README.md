@@ -1,4 +1,4 @@
-# Power-BI-Projects
+# Power BI Projects
 
 Hi there, Sudhansu here...
 
