@@ -1,7 +1,7 @@
 # Power BI Projects
 
+![specialized1](https://github.com/SUDHANSU15GOUDA/Power-BI-Projects/assets/123532199/d4090ba6-c5e1-436c-bb18-d7ec654639b2)
 
-https://images.ctfassets.net/2vbtnveccz5s/2iorjhUm2wp4EEHv4kDKiV/4cb6e193184f1fc88547f25272e8f976/specialized1.gif
 
 
 Hi there, Sudhansu here...
